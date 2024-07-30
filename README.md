@@ -9,6 +9,7 @@ This is a School Management System built with Spring Boot and MySQL to manage th
 - Update student and teacher information
 - Delete student and teacher records
 - View lists of all students and teachers
+- Swagger for the apis is available on http://localhost:8080/swagger-ui/index.htm
 
 ## Prerequisites
 
